@@ -1,6 +1,6 @@
 #!/bin/basj
 
-echo "Hello World"
+# We doen weer iets
 echo "Hello World"
 
 # eos
